@@ -1,2 +1,2 @@
 # Test
-My firt Github Repo
+My first Github Repo
